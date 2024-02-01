@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hello, bienvenue sur ma page GitHub 👋 </h1>
 
+<p>Initialement ingénieur économiste. Aujourd'hui jeune développeur. Titulaire du titre professionnel "développeur web et web mobile" depuis 2023. Formé à l'école O'Clock 📔. J'apprécie le Back-End comme le Front-end, j'admet cependant avoir un petit faible pour le développement d'interfaces Front, notamment avec React.js. </p>
+
+<h2>A propos</h2>
+
+<p>💼 En recherche d'un emploi de développeur</p>
+<p>:computer: Visitez mon <a href="#">portfolio numérique</a> (à venir)</p>
+<p>📫 Envoyez moi un <a href="mailto:bastien.masselon@laposte.net">email</a></p>
 <!--
 **BastienMasselon/BastienMasselon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
