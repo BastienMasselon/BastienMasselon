@@ -8,7 +8,7 @@
       <a href="https://git.io/streak-stats">
         <img height=150 src="https://streak-stats.demolab.com?user=BastienMasselon&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&background=615C73&stroke=D2C9EC&ring=D2C9EC&fire=D2C9EC&currStreakNum=D2C9EC&sideNums=D2C9EC&currStreakLabel=D2C9EC&sideLabels=D2C9EC&dates=D2C9EC" />
       </a>
-      <a vertical-align="middle" href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BastienMasselon&layout=compact&locale=fr&bg_color=615C73&title_color=D2C9EC&text_color=D2C9EC&icon_color=D2C9EC&hide_border=true" />
       </a>
 </p>
