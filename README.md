@@ -16,7 +16,7 @@
 <h2 align="center">À propos 📜</h2>
 
 <p>💼 En recherche d'un emploi de développeur</p>
-<p>:computer: Visitez mon <a href="#">portfolio numérique</a> (à venir)</p>
+<p>:computer: Visitez mon <a href="https://bastienmasselon.github.io/BMasselon/">portfolio numérique</a></p>
 <p>📫 Envoyez moi un <a href="mailto:bastien.masselon@laposte.net">email</a></p>
 
 <h2 align="center">Stack technique 🛠️ </h2>
