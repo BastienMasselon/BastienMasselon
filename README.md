@@ -23,7 +23,7 @@
 
 - Html, CSS, SCSS, Javascript, PHP, SQL, Markdown
 - MySQL, MariaDB
-- React, Redux/React-Redux, Bootstrap, Tailwind
+- React, Redux/React-Redux, Bootstrap, Tailwind, Symfony
 - Git, GitHub, VSCode, ESLint
 
 <!--
